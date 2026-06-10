@@ -124,12 +124,3 @@ java Proxy -port 8080 -server 127.0.0.1 8081 -server 127.0.0.1 8082
 - No external dependencies
 
 ---
-
-## Project Structure
-
-```
-Java-Proxy/
-├── Proxy.java          # Main source — proxy logic + protocol handler
-├── Proxy.class         # Compiled bytecode
-└── README.md
-```

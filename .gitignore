@@ -1,0 +1,12 @@
+*.class
+
+.idea/
+*.iml
+
+out/
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
